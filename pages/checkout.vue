@@ -144,7 +144,6 @@ definePageMeta({
 })
 
 
-
 let stripe = null
 let elements = null
 let card = null
